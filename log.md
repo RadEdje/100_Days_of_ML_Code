@@ -1,0 +1,36 @@
+Day 0: July 7, 2018
+
+Today's Progress: Saw Siraj's #100DaysOfMlCode on both FB and Twitter and finally decided to start this log and shared the 
+link to the work I'm doing.
+
+Intro: I started with google's crash course in machine learning about 1-2 months ago then went to tensorflow.js after I saw the amazing
+demo for the emoji scavenger hunt. This is how my journey into AI/ML with tensorflow and tensorflow.js began.
+
+About the APP: 
+I'm building a web app that uses tensorflow.js to deploy an AI/ML model I trained. The app uses the web cam to scan an image and 
+tries to detect monteggia and galeazzi fractures then produces a link with an image search for pictures on the web that look similar to the
+scanned image. I'm basically shooting for a reverse image search using AI/ML deployed on the web with javascript.
+
+latest iteration has just been updated to tensorflow.js version  0.11.7 and tensorflow (python version 1.8)
+
+Thoughts:
+After updating to the latest tf (python and javascript), model.predict() has become exceedingly fast on the web, way faster than with tf.js 
+version 0.10.0. This has somehow affected the accuracy of my AI/ML model's predictions. Still exploring the reason.
+
+Same problems with iOS devices. Minimum requirement on apple devices is still safari 11 (since this is the version that supports webRTC and
+access to the web cam).
+
+Android support is growing:
+--current device support based on user feed back is samsung galaxy s8, galaxy a5, Mi6 and OnePlus 5t. (mostly android 7-8 devices).
+--Still can't figure out why it won't work on android 5... last link/forum I found indicated a performance cliff...
+https://github.com/tensorflow/tfjs/issues/145
+
+Current problem:
+Continue to figure out how to get it to work on older droids? 
+
+or 
+
+just continue to develop since I have more features to add like
+DICOM support (hoping when I'm done with development, most droid will be on android 8.0)
+
+Link to work: https://radhorizon.com/SITES/RadLense/index3.html
