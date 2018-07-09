@@ -43,3 +43,10 @@ https://www.youtube.com/watch?v=4eIBisqx9_g
 I wonder if tensorflow.js is now fast enough to do this on the web?
 
 UPDATE: web app now working on iOS! Yahoo.... though though still not working on android 5 and lower (can't seem to get over the performance cliff....). Working mostly on android 7-8. Will work on UX and possible ideas of DICOM support.
+
+DAY 3: July 10, 2018
+Current Progress: 
+Uploaded the latest version of the AI/ML web app and asking for feedback from users. The updates were focused mainly for iOS incompatibilities. I hope the changes don't break existing compatibilities with other android phones. Finger's crossed.
+
+Current goals:
+Hope to move forward with Either DICOM scanning or YOLO for the app. Must check if anyone has already successfully run YOLO in the browser of a mobile phone.
