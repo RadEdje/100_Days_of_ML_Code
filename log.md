@@ -50,3 +50,6 @@ Uploaded the latest version of the AI/ML web app and asking for feedback from us
 
 Current goals:
 Hope to move forward with Either DICOM scanning or YOLO for the app. Must check if anyone has already successfully run YOLO in the browser of a mobile phone.
+
+Current project link:
+https://radhorizon.com/SITES/RadLense/index6.html
