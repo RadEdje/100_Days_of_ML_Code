@@ -36,7 +36,10 @@ DICOM support (hoping when I'm done with development, most droid will be on andr
 Link to work: https://radhorizon.com/SITES/RadLense/index3.html
 
 Day 2: July 9, 2018
+
 Progress, still stuck with WebRTC for iOS safari 11. Can't initiate the camera for the app. Been trying to figure it out since yesterday.
 Taking a break on that and reviewing YOLO and YOLO2 by watching SIRAJ's vid at
 https://www.youtube.com/watch?v=4eIBisqx9_g
 I wonder if tensorflow.js is now fast enough to do this on the web?
+
+UPDATE: web app now working on iOS! Yahoo.... though though still not working on android 5 and lower (can't seem to get over the performance cliff....). Working mostly on android 7-8. Will work on UX and possible ideas of DICOM support.
