@@ -53,3 +53,14 @@ Hope to move forward with Either DICOM scanning or YOLO for the app. Must check 
 
 Current project link:
 https://radhorizon.com/SITES/RadLense/index6.html
+
+DAY 3: July 14, 2018
+
+Got tied to work past couple of days.
+
+Watching an intro to GAN (if I can use it in my web app).
+https://www.youtube.com/watch?v=9JpdAg6uMXs
+
+Also got an amazing link to https://deepcognition.ai/
+first AI IDE with GUI drag n drop pluse terminal support for KERAS and TENSORFLOW.... can't wait to try it out...just waiting for
+my slow internet to download.
