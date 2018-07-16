@@ -64,3 +64,15 @@ https://www.youtube.com/watch?v=9JpdAg6uMXs
 Also got an amazing link to https://deepcognition.ai/
 first AI IDE with GUI drag n drop pluse terminal support for KERAS and TENSORFLOW.... can't wait to try it out...just waiting for
 my slow internet to download.
+
+DAY 4: July 16, 2018
+Reviewing batch size, iterations and epochs for the new model web app I'm considering.
+reading: https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent
+
+
+Current problem:
+with my old data set of 200+ gray scale images, I could get considerable validation accuracy with a batch size of 2 and 15-17 epochs but after increasing my data set to 400+ colored images, I can't get passed 20--30% validation accuracy even after increasing my epochs to 30.
+
+Possible solutions:
+Might further increase the batch sizes. If  that does not work, I might have to adjust the learning rate (currently using ADAM optimier).
